@@ -1,4 +1,20 @@
-# 环境
+# Go版
+
+**基于Go标准库，通过API接口获取表情包资源url然后下载到本地，速度非常快（有对表情包分类）**
+
+**一、使用方式**
+
+* 安装Go编译器[安装包地址](https://golang.google.cn/)，window用户推荐下载`.msi`，linux用户参考[golang的安装与配置](https://gitee.com/fish_keqing/environment-configuration/blob/master/operation/GoLang的安装与环境配置.md)
+
+```go
+go run main.go
+```
+
+# Python版
+
+**使用selenium模拟用户浏览页面爬取内容**
+
+## 环境
 
 **一、拉取库**
 
